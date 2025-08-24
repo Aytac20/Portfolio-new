@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import React from "react";
 import { FaGithubSquare, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
@@ -24,9 +23,9 @@ const Home = () => {
         </h1>
 
         <p className="mt-4 lg:text-[1rem] text-[0.9rem] tracking-wide font-sora-regular text-gray-700">
-          "I’m Aytac Balayeva, a Frontend Developer passionate about building
-          modern, user-friendly web applications with React, Next.js, and
-          Tailwind CSS."
+          I&quot;m Aytac Balayeva, a Frontend Developer passionate about
+          building modern, user-friendly web applications with React, Next.js,
+          and Tailwind CSS.
         </p>
 
         <div className="flex mt-[2rem] gap-10 media-links mb-4">
